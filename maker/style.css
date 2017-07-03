@@ -1,0 +1,33 @@
+html {
+    
+    background-image: url("58426372-tumblrstaticstars-artwork-galaxy-1920x1080.jpg");
+    background-size cover;
+    color:white;
+    font-family: Verdana, monospace, sans-serif;
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+.foto{
+    border-radius: 20px;
+    border: 8px dashed white;
+    width: 50%;
+    height: 70%;
+    float: left;
+
+}
+
+.onemli {
+    font-size: 18px;
+}
+
+
+.liste{
+    display:inline-block;
+}
+
+
+h1 {
+    color:red;
+}
